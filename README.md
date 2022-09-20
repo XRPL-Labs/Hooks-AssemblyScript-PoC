@@ -3,6 +3,7 @@
 ## Install
 
 ```
+git clone https://github.com/XRPL-Labs/xrpld-hooks
 git clone https://github.com/AssemblyScript/assemblyscript.git
 cd assemblyscript
 npm install
